@@ -21,7 +21,7 @@ jobs:
           echo "Running test #1"
       
       - name: git clone project
-        uses: action/checkout@v3
+        uses: actions/checkout@v2
 
       - name: clone result
         run: |
