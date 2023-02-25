@@ -36,6 +36,3 @@ jobs:
     steps:
       - name: Deploy
         run: echo "Deploy run"
-      
-      - name: print deploy packages sha
-        run: echo "Deploy packages name is  $(git rev-parse --short HEAD)"
