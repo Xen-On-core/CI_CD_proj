@@ -22,6 +22,10 @@ jobs:
       
       - name: git clone project
         uses: action/checkout@v1
+
+      - name: clone result
+        run: |
+          echo "Repository clone is successful" 
       
       - name: list current directory
         run: ls -la
