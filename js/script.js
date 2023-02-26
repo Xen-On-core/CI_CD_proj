@@ -77,7 +77,7 @@ function reset() {
     document.getElementById("b9").value = '';
 }
 
-flag = 1;
+let flag = 1;
 function setValue() {
     if (flag == 1) {
         this.value = "X";
