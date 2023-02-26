@@ -1,5 +1,5 @@
 {
   "main": "./js/script.js",
   "scripts" :
-  { "build": "node ./js/build.js"}
+  { "build": "node ./js/script.js"}
 }
