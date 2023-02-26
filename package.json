@@ -1,5 +1,5 @@
 {
-  "type": "module"
+  "type": "module",
   "main": "./js/script.js",
   "scripts" : 
   { 
