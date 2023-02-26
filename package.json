@@ -3,6 +3,6 @@
   "scripts" : 
   { 
     "build": "node ./js/script.js",
-    "tests": "node ./test/pow_test.js"
+    "test": "node ./test/pow_test.js"
   }
 }
