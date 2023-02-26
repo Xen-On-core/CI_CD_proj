@@ -28,4 +28,4 @@ jobs:
           echo test, and deploy your project.
       
       - name: Run JS file for test
-        run: ls -la
+        run: node js/script.js
